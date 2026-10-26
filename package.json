@@ -4,7 +4,7 @@
   "description": "REST API starter: Hono, Zod validation, API key auth, tests.",
   "type": "module",
   "license": "MIT",
-  "author": "Vertex Code by Ȥrk Team",
+  "author": "Varhex by Ȥrk Team",
   "engines": {
     "node": ">=20.6"
   },
