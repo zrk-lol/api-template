@@ -27,4 +27,4 @@ The store in `src/store.ts` lives in memory: swap it for your database (PostgreS
 Base d’API REST : Hono, validation Zod, clé d’API pour les écritures, erreurs JSON propres et tests. Remplacez le stockage en mémoire de `src/store.ts` par votre base de données.
 
 ---
-Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://varhex.com) · MIT licence
